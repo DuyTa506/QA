@@ -1,0 +1,11 @@
+torch
+torchvision 
+torchaudio
+fastapi
+pydantic
+datasets
+transformers
+uvicorn
+pyvi
+sentence_transformers
+faiss-cpu
